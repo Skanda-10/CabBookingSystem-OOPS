@@ -35,7 +35,7 @@ A console-based Java application that simulates real-time cab booking and alloca
 ![Cab Booking](images/Cab%20Allocation%20%26%20Ride%20Summary.png)
 
 ### 📊 Ride Summary Output
-![Ride Summary](images/ride_summary.png)
+![Ride Summary](images/Welcom%20%26%20Cab%20booking.png)
 
 ---
 
